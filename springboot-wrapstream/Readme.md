@@ -2,17 +2,17 @@
 
 ## Build and Run
 
-1. login to wrapstream console
+#### 1. login to wrapstream console
 
 [Wrapstream Console login](https://console.warpstream.com/virtual_clusters) 
 
 create new cluster name 'customer'
 
-2. Create Credentials 
+#### 2. Create Credentials 
 ````
 cluster --> credentials --> create credentials --> save it
 ````
-3. Update username and password for wrapstream in application.properties
+#### 3. Update username and password for wrapstream in application.properties
 
 ````shell
 customer.sasl.username=ccun_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
