@@ -1,0 +1,1 @@
+INSERT INTO config (c_key, c_value) VALUES ('ETL', 'CREATE');
